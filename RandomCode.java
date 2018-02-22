@@ -3,8 +3,8 @@ package com.trace.app.framework.utils;
 import java.text.DecimalFormat;
 
 /**
- * Created by 魏伟 on 2016/3/30.
- * Update by mcg on 2016/8/10
+ * Created by tz on 2017/3/30.
+ * Update by tz on 2017/8/10
  */
 public class RandomCode {
     public static String getRandomCode(){

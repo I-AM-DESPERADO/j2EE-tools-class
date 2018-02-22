@@ -3,7 +3,7 @@ import java.util.List;
 
 /**pageUtil类用来处理分页的各种参数
  * core sql:SELECT * FROM Table LIMIT (currentPage-1)*pageSize,pageSize;
- * Created by Jin on 2016/07/08 .
+ * Created by tz on 2016/07/08 .
  */
 public class PageUtil{
     private List records; //db传过来

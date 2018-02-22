@@ -6,7 +6,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.io.File;
 
 /**
- * Created by xiongjian on 16/4/5.
+ * Created by tz on 2017/06/15.
  * 上传文件工具类
  */
 public class Uploadfile {

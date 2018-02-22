@@ -5,9 +5,7 @@ import com.google.gson.GsonBuilder;
 import com.trace.app.framework.toolsmodel.BPResult;
 import com.trace.app.framework.toolsmodel.Constant;
 
-/**
- * Created by 魏伟 on 2016/3/4.
- * Updated by Jin on 2016/08/08
+/*
  * Description:主要是改原本的单个Object为可变参数,可传入多个.不影响之前传入单个,满足开放闭合
  */
 public class CommonLogic {

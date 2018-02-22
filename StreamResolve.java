@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStream;
 
 /**
- * Created by MEX on 2014/11/25.
+ * Created by tz on 2016/11/25.
  */
 public class StreamResolve {
 

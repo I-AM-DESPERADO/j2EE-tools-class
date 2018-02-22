@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.io.File;
 
 /**
- * Created by cx on 2017/6/19.
+ * Created by tz on 2017/6/19.
  */
 public class UploadfilesM {
     public static String saveFile(HttpServletRequest request, MultipartFile file, String imageUrl,String menuName) {

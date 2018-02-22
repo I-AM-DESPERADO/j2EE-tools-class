@@ -4,7 +4,7 @@ import javax.servlet.http.HttpSession;
 import java.util.HashMap;
 
 /**
- * Created by MEX on 2015/3/27.
+ * Created by tz on 2017/3/27.
  */
 public class MySessionContext {
     private static HashMap myMap = new HashMap();

@@ -4,7 +4,7 @@ import java.text.DateFormat;
 import java.text.DecimalFormat;
 
 /**
- * Created by 成刚 on 2016/8/8.
+ * Created by tz on 2016/8/8.
  */
 public class NTUtil {
     private static char[] array = {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9',

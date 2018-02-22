@@ -12,8 +12,7 @@ import java.util.Calendar;
 /**
  * Created by MEX on 2014/11/16.
  * Updated by Jin on 2016/07/28  v1
- * Updated by Jin on 2017/01/01  v2
- * Updated by wk on 2017/07/31
+ * Updated by tz on 2017/07/31  v2
  */
 public class TimeUtils {
 

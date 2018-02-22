@@ -14,8 +14,6 @@ import java.util.*;
 
 /**
  * json 与对象互相转化工具类，利用Gson, 此处用单列模式
- * Created by liyuan on 2015/1/1.
- * Mod by MEX on 2015/3/27
  */
 public class JsonUtils {
     private static Gson gson;

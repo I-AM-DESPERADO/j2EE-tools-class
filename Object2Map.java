@@ -8,7 +8,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by MEX on 2015/5/26.
+ * Created by tz on 2017/5/26.
  */
 public class Object2Map {
     public static Map<String, Object> introspect(Object obj) throws Exception {
